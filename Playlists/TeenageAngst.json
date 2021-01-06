@@ -1,0 +1,748 @@
+[
+  {
+    "name": "Teenage Angst",
+    "data": [
+      {
+        "id": "01",
+        "title": "All the Small Things",
+        "artist": "blink-182",
+        "album": "Enema Of The State",
+        "cover": "https://m.media-amazon.com/images/I/5136HiqwIqL._AA256_.jpg",
+        "length": "2:51",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "1985",
+        "artist": "Bowling For Soup",
+        "album": "A Hangover You Don't Deserve",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61IaDCy-TgL._SX425_.jpg",
+        "length": "3:13",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "Vindicated",
+        "artist": "Dashboard Confessional",
+        "album": "Dusk And Summer",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/516h4aOARLL.jpg",
+        "length": "3:21",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "Sugar, We're Going Down",
+        "artist": "Fall Out Boy",
+        "album": "From Under The Cork Tree",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/711gOQ266AL._SX355_.jpg",
+        "length": "3:49",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "Stacy's Mom",
+        "artist": "Fountains of Wayne",
+        "album": "Welcome Interstate Managers",
+        "cover": "https://images.roughtrade.com/product/images/files/000/203/628/hero/open-uri20201012-28825-1jiik91?1602524200",
+        "length": "3:18",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Brain Stew",
+        "artist": "Green Day",
+        "album": "Dookie",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61TrJ2-fmOL.jpg",
+        "length": "3:02",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "Mr. Brightside",
+        "artist": "The Killers",
+        "album": "Hot Fuss",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/919KcRhmVxL._SX355_.jpg",
+        "length": "3:43",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Welcome to the Black Parade",
+        "artist": "My Chemical Romance",
+        "album": "The Black Parade",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81fNQtNDw8L._SX425_.jpg",
+        "length": "5:11",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "I Write Sins Not Tragedies",
+        "artist": "Panic! At The Disco",
+        "album": "A Fever You Can't Sweat Out",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61jHJph8NRL.jpg",
+        "length": "3:07",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "Ocean Avenue",
+        "artist": "Yellowcard",
+        "album": "Ocean Avenue",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/41r4lgYRCrL._SY355_.jpg",
+        "length": "3:18",
+        "queue_place": ""
+      },
+      {
+        "id": "11",
+        "title": "It Ends Tonight",
+        "artist": "The all-American Rejects",
+        "album": "Move Along",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/41sVECGbeCL.jpg",
+        "length": "4:04",
+        "queue_place": ""
+      },
+      {
+        "id": "13",
+        "title": "Jamie All Over",
+        "artist": "Mayday Parade",
+        "album": "A Lesson in Romantics",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/5/53/Mpalircover.jpg",
+        "length": "3:36",
+        "queue_place": ""
+      },
+      {
+        "id": "14",
+        "title": "Flavor of the Week",
+        "artist": "American Hi-Fi",
+        "album": "American Hi-Fi",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/e/e8/Americanhifi.jpg",
+        "length": "3:08",
+        "queue_place": ""
+      },
+      {
+        "id": "15",
+        "title": "Beverly Hills",
+        "artist": "Weezer",
+        "album": "Make Believe",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91PLLGC-eCL._SL1500_.jpg",
+        "length": "3:16",
+        "queue_place": ""
+      },
+      {
+        "id": "16",
+        "title": "Until The Day I Die",
+        "artist": "Story Of The Year",
+        "album": "Page Avenue",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Page_Avenue.jpg/220px-Page_Avenue.jpg",
+        "length": "3:55",
+        "queue_place": ""
+      },
+      {
+        "id": "17",
+        "title": "Fall For You",
+        "artist": "Secondhand Serenade",
+        "album": "A Twist In My Story",
+        "cover": "https://i.ytimg.com/vi/y5UFCQYUdQM/hqdefault.jpg",
+        "length": "3:05",
+        "queue_place": ""
+      },
+      {
+        "id": "18",
+        "title": "Memory",
+        "artist": "Sugarcult",
+        "album": "Palm Trees and Power Lines",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51Y7TWqbOyL._SX355_.jpg",
+        "length": "3:46",
+        "queue_place": ""
+      },
+      {
+        "id": "19",
+        "title": "No Future",
+        "artist": "Blink-182",
+        "album": "California",
+        "cover": "https://files.rocksound.tv/images/made/assets/uploads/blink_calidel_edit_635_635_s_c1.jpg",
+        "length": "3:45",
+        "queue_place": ""
+      },
+      {
+        "id": "20",
+        "title": "Basket Case",
+        "artist": "Green Day",
+        "album": "Dookie",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61TrJ2-fmOL.jpg",
+        "length": "3:01",
+        "queue_place": ""
+      }
+    ]
+  },
+  {
+    "name": "Singing in the Shower",
+    "data": [
+      {
+        "id": "01",
+        "title": "Hey There Delilah",
+        "artist": "Plain White T's",
+        "album": "All That We Needed",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71lGK8kCwVL._SX466_.jpg",
+        "length": "3:52",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "Use Somebody",
+        "artist": "Kings of Leon",
+        "album": "Only By The Night",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51csVUniTsL.jpg",
+        "length": "3:50",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "Come On Eileen",
+        "artist": "Dexys Midnight Runners",
+        "album": "Dubious",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71wS%2Ba3lnsL._SY355_.jpg",
+        "length": "3:25",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "Some Nights",
+        "artist": "fun.",
+        "album": "Some NIghts",
+        "cover": "https://consequenceofsound.net/wp-content/uploads/2012/02/fun-some-nights-album-cover-art-640x640.jpg?quality=80",
+        "length": "4:37",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "All Star",
+        "artist": "Smash Mouth",
+        "album": "Astro Lounge",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/715gWkY5H2L._SX466_.jpg",
+        "length": "3:20",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "album": "Dizzy up the Girl",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81CuhTZNe6L._SX466_.jpg",
+        "length": "4:49",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "How Bizarre",
+        "artist": "OMC",
+        "album": "How Bizarre",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61PlQjiYiwL.jpg",
+        "length": "3:45",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "album": "(What's The Story) Morning Glory?",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81XAuWZWyqL._SY355_.jpg",
+        "length": "4:18",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "Breakfast At Tiffany's",
+        "artist": "Deep Blue Something",
+        "album": "Home",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61B-EDoCoUL._SX355_.jpg",
+        "length": "4:17",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "Life Is A Highway",
+        "artist": "Tom Cochrane",
+        "album": "Mad Mad World",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51lcH3XcrkL._SY355_.jpg",
+        "length": "4:26",
+        "queue_place": ""
+      }
+    ]
+  },
+  {
+    "name": "Road Tripping",
+    "data": [
+      {
+        "id": "01",
+        "title": "Road Trippin'",
+        "artist": "Red Hot Chili Peppers",
+        "album": "Californication",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61pLSgB49EL.jpg",
+        "length": "3:24",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "Californication",
+        "artist": "Red Hot Chili Peppers",
+        "album": "Californication",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61pLSgB49EL.jpg",
+        "length": "5:29",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "Santeria",
+        "artist": "Sublime",
+        "album": "Sublime",
+        "cover": "https://www.udiscovermusic.com/wp-content/uploads/2019/07/Sublime-self-titled-third-album-cover-820.jpg",
+        "length": "3:02",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "Let The Drummer Kick",
+        "artist": "Citizen Cope",
+        "album": "Citizen Cope",
+        "cover": "https://images.genius.com/2de17f43b8fd45d93106efeccbaad4bd.640x635x1.jpg",
+        "length": "4:17",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "Clint Eastwood",
+        "artist": "Gorillaz",
+        "album": "Gorillaz",
+        "cover": "https://lutheruk1.files.wordpress.com/2016/02/gorillaz.jpg?w=640",
+        "length": "5:40",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Sloth's Revenge",
+        "artist": "Dirty Heads",
+        "album": "Home | Phantoms of Summer",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81pTwWHmb-L._SX425_.jpg",
+        "length": "3:33",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "Hand's Up",
+        "artist": "Antix",
+        "album": "Flammable Grammar",
+        "cover": "https://img.discogs.com/pkxjKwRB2uwWzKKnIL1-_GzpA18=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5282547-1423820608-5650.jpeg.jpg",
+        "length": "5:44",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Lay Me Down",
+        "artist": "Dirty Heads",
+        "album": "Any Port in a Storm",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51oFwvP3WPL.jpg",
+        "length": "3:55",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "Son's Gonna Rise",
+        "artist": "Citizen Cope",
+        "album": "Son's Gonna Rise",
+        "cover": "https://m.media-amazon.com/images/I/81Ahh04cJbL._SS500_.jpg",
+        "length": "3:51",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "Rivers of Babylon",
+        "artist": "Sublime",
+        "album": "40oz. To Freedom",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71dKKd%2BWgNL._SY355_.jpg",
+        "length": "2:29",
+        "queue_place": ""
+      }
+    ]
+  },
+  {
+    "name": "Old Skool",
+    "data": [
+      {
+        "id": "01",
+        "title": "The Seed (2.0)",
+        "artist": "The Roots",
+        "album": "Phrenology",
+        "cover": "https://media.pitchfork.com/photos/5929a2a8ea9e61561daa4ace/1:1/w_600/8d0356db.jpg",
+        "length": "4:27",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "This Way",
+        "artist": "Dilated Peoples",
+        "album": "Neighborhood Watch",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51CF6235JSL._AC_UL600_SR600,600_.jpg",
+        "length": "4:05",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "Truth Is",
+        "artist": "Brother Ali",
+        "album": "The Undisputed Truth",
+        "cover": "https://f4.bcbits.com/img/a3348691425_5.jpg",
+        "length": "4:20",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "The Food",
+        "artist": "Common",
+        "album": "Be",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/514DANHFA3L.jpg",
+        "length": "3:36",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "Get By",
+        "artist": "Talib Kweli",
+        "album": "Quality",
+        "cover": "https://media.pitchfork.com/photos/5929bc14abf31b7dc7155c30/1:1/w_600/83bfc61a.jpg",
+        "length": "3:47",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Hip Hop",
+        "artist": "Dead Prez",
+        "album": "Let's Get Free",
+        "cover": "https://media.pitchfork.com/photos/5da4cd4d9ba6ff0008720fc3/1:1/w_600/deadprez.jpg",
+        "length": "3:34",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "Radio",
+        "artist": "Jurrasic 5",
+        "album": "Feedback",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51H2Q0REPJL.jpg",
+        "length": "3:51",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Revolutionary Warfare",
+        "artist": "Nas",
+        "album": "God's Son",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51w8a3Ti9HL.jpg",
+        "length": "3:29",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "We The People....",
+        "artist": "A Tribe Called Quest",
+        "album": "We got it from Here... Thank You 4 Your service",
+        "cover": "https://media.pitchfork.com/photos/5929bf695e6ef959693233cc/1:1/w_600/98b81f8d.jpeg",
+        "length": "2:52",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "Bring The Pain",
+        "artist": "Method Man",
+        "album": "Tical",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51VWCiDhSwL.jpg",
+        "length": "3:09",
+        "queue_place": ""
+      }
+    ]
+  },
+  {
+    "name": "Rock & Roll",
+    "data": [
+      {
+        "id": "01",
+        "title": "Immigrant Song",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin III",
+        "cover": "https://img.discogs.com/-b6TgwAreobJeJ_c3t8FnZGcSw0=/fit-in/528x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710762-1341306802-4378.jpeg.jpg",
+        "length": "2:25",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "Sweet Emotion",
+        "artist": "Aerosmith",
+        "album": "Toys In The Attic",
+        "cover": "https://cdn.shopify.com/s/files/1/1746/5129/products/Screen_Shot_2017-06-12_at_9.14.28_PM_1024x1024.png?v=1497328462",
+        "length": "4:34",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "Purple Haze",
+        "artist": "Jimi Hendrix",
+        "album": "Are You Experienced",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61ybI8BGViL._SX466_.jpg",
+        "length": "2:50",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "Little Wing",
+        "artist": "Jimi Hendrix",
+        "album": "Electric Ladyland",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51VWpTObMvL.jpg",
+        "length": "5:13",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "Iron Man",
+        "artist": "Black Sabbath",
+        "album": "Paranoid",
+        "cover": "https://img.discogs.com/iDfFifUHS4phrV1Rm_HWaCW4x1s=/fit-in/575x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696772-1389622198-5735.jpeg.jpg",
+        "length": "5:55",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Back In Black",
+        "artist": "AC/DC",
+        "album": "Back In Black",
+        "cover": "https://static.billboard.com/files/media/acdc-back-in-black-album-cover-650-compressed.jpg",
+        "length": "4:15",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "Gimme Shelter",
+        "artist": "The Rolling Stones",
+        "album": "Let It Bleed",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81Ut0SKKVhL._SX466_.jpg",
+        "length": "4:30",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Simple Man",
+        "artist": "Lynyrd Skynyrd",
+        "album": "Pronounced Leh-'Nerd 'Skin-'Nerd",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/813cxqBHguL._SX522_.jpg",
+        "length": "5:56",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "Superstition",
+        "artist": "Stevie Wonder",
+        "album": "Superstition",
+        "cover": "https://img.discogs.com/J8GW3CdkI7EJXEaOerXvFgn48b0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3080632-1314797344.jpeg.jpg",
+        "length": "4:05",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "It's My Life",
+        "artist": "Bon Jovi",
+        "album": "Crush",
+        "cover": "https://img.discogs.com/BjosYlzUcqiifyhhj9sjl8_QOFU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368191-1227212577.jpeg.jpg",
+        "length": "3:44",
+        "queue_place": ""
+      }
+    ]
+  },
+  {
+    "name": "Acoustics",
+    "data": [
+      {
+        "id": "01",
+        "title": "Girl Crush",
+        "artist": "Harry Styles",
+        "album": "Girl Crush - Spotify Single",
+        "cover": "https://i.pinimg.com/474x/2e/09/7e/2e097e98eb60857958cce0ea3393fba3.jpg",
+        "length": "4:03",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "All The Pretty Girls",
+        "artist": "Kaleo",
+        "album": "A/B",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81%2B8w4dqVXL._SY450_.jpg",
+        "length": "4:29",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "Cherry Wine",
+        "artist": "Hozier",
+        "album": "Hozier",
+        "cover": "https://i.pinimg.com/originals/35/ec/cb/35eccbc96c077af1eb17b2336f3c4574.png",
+        "length": "4:00",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "Elijah",
+        "artist": "Matthew And The Atlas",
+        "album": "Temple",
+        "cover": "https://s.mxmcdn.net/images-storage/albums5/4/9/4/3/0/5/36503494_500_500.jpg",
+        "length": "4:39",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "Re: Stacks",
+        "artist": "Bon Iver",
+        "album": "For Emma, Forever Ago",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/41lAHtL4paL._SY355_.jpg",
+        "length": "6:41",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Samson",
+        "artist": "Regina Spektor",
+        "album": "Begin To Hope",
+        "cover": "https://media.pitchfork.com/photos/5929aba413d1975652139c3a/1:1/w_600/85b228fc.jpg",
+        "length": "3:09",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "Georgia",
+        "artist": "Vance Joy",
+        "album": "Dream Your Life Away",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61TJK6nlwpL.jpg",
+        "length": "3:50",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Trouble",
+        "artist": "Ray LaMontagne",
+        "album": "Trouble",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/71irPFhhkWL._SX355_.jpg",
+        "length": "4:01",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "Rivers and Roads",
+        "artist": "The Head and the Heart",
+        "album": "The Head and the Heart",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51PbPZAFauL.jpg",
+        "length": "4:44",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "Bloom",
+        "artist": "The Paper Kites",
+        "album": "Woodland",
+        "cover": "https://m.media-amazon.com/images/I/81Wdku9M+hL._SS500_.jpg",
+        "length": "3:30",
+        "queue_place": ""
+      }
+    ]
+  },
+  {
+    "name": "Lo-Fi",
+    "data": [
+      {
+        "id": "01",
+        "title": "Waiting For You",
+        "artist": "Verzache",
+        "album": "The Sound You Need",
+        "cover": "https://m.media-amazon.com/images/I/61-cPK2Bp4L._SS500_.jpg",
+        "length": "3:50",
+        "queue_place": ""
+      },
+      {
+        "id": "02",
+        "title": "I'm Sorry",
+        "artist": "Swell",
+        "album": "Majestic Casual",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/91Aulnf5iHL._AC_UL600_SR600,600_.jpg",
+        "length": "2:37",
+        "queue_place": ""
+      },
+      {
+        "id": "03",
+        "title": "I'm Closing My Eyes",
+        "artist": "potsu",
+        "album": "I'm Closing My Eyes",
+        "cover": "https://m.media-amazon.com/images/I/81zaNHVQZEL._SS500_.jpg",
+        "length": "1:58",
+        "queue_place": ""
+      },
+      {
+        "id": "04",
+        "title": "Lovesick",
+        "artist": "potsu",
+        "album": "Lovesick",
+        "cover": "https://m.media-amazon.com/images/I/61VT5ldPznL._SS500_.jpg",
+        "length": "2:30",
+        "queue_place": ""
+      },
+      {
+        "id": "05",
+        "title": "Again",
+        "artist": "Timmies",
+        "album": "Vivid Pictures",
+        "cover": "https://m.media-amazon.com/images/I/91yM0ZFLisL._SS500_.jpg",
+        "length": "2:37",
+        "queue_place": ""
+      },
+      {
+        "id": "06",
+        "title": "Ghostwriter",
+        "artist": "RJD2",
+        "album": "Deadringer",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/518g5zSwGHL.jpg",
+        "length": "5:17",
+        "queue_place": ""
+      },
+      {
+        "id": "07",
+        "title": "Que Sera",
+        "artist": "Wax Tailor",
+        "album": "Tales of the Forgotten Melodies",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/81JS4XguNmL._SY355_.jpg",
+        "length": "2:44",
+        "queue_place": ""
+      },
+      {
+        "id": "08",
+        "title": "Who?",
+        "artist": "TSUKI",
+        "album": "Who?",
+        "cover": "https://m.media-amazon.com/images/I/91dYncU09PL._SS500_.jpg",
+        "length": "2:37",
+        "queue_place": ""
+      },
+      {
+        "id": "09",
+        "title": "I'll Keep You Safe",
+        "artist": "sagun",
+        "album": "I'll Keep You Safe",
+        "cover": "https://i1.sndcdn.com/artworks-000237048917-38q1o7-t500x500.jpg",
+        "length": "3:05",
+        "queue_place": ""
+      },
+      {
+        "id": "10",
+        "title": "[oops]",
+        "artist": "potsu",
+        "album": "[oops]",
+        "cover": "https://m.media-amazon.com/images/I/71mdkK5CwRL._SS500_.jpg",
+        "length": "2:22",
+        "queue_place": ""
+      }
+    ]
+  }
+]
